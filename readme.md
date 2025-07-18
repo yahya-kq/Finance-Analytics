@@ -33,7 +33,7 @@ Each project reflects real use cases in corporate finance, accounting, and busin
 
 Each folder includes relevant files, documentation, and instructions for usage.
 
-💡 Who Is This For?
+## 💡 Who Is This For?
 
 📈 Business professionals who want to explore data-driven finance
 
@@ -41,9 +41,9 @@ Each folder includes relevant files, documentation, and instructions for usage.
 
 🧠 Anyone interested in financial modeling, automation, or visualization
 
-📬 Contact
+## 📬 Contact
 
-I’d love to connect or collaborate!
+## I’d love to connect or collaborate!
 
 📧 yahyaqureshi012@gmail.com
 
