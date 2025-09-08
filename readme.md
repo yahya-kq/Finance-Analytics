@@ -3,7 +3,6 @@
 Welcome to my **Accounting & Finance Projects** repository!  
 This space brings together practical, real-world finance solutions — combining core accounting principles with modern tools like **Excel**, **Power BI**, and **Python** to analyze, automate, and visualize financial data effectively.
 
----
 
 ## 📌 What You'll Find
 
@@ -17,7 +16,6 @@ This repository is designed to demonstrate how data and finance intersect to imp
 
 Each project reflects real use cases in corporate finance, accounting, and business analysis — built with clarity, accuracy, and efficiency in mind.
 
----
 
 ## 🛠 Tools & Skills Applied
 
@@ -41,18 +39,8 @@ Each folder includes relevant files, documentation, and instructions for usage.
 
 🧠 Anyone interested in financial modeling, automation, or visualization
 
-## 📬 Contact
 
-## I’d love to connect or collaborate!
-
-📧 yahyaqureshi012@gmail.com
-
-www.linkedin.com/in/yahya-qureshi012
-
-Feel free to reach out for freelance work, questions, or feedback.
-
-
-“Where accounting meets automation, and finance becomes insight.”
+**Where accounting meets automation, and finance becomes insight.**
 
 ## ⭐ Found this helpful? Give the repo a star and share it with others!
 
